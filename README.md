@@ -13,5 +13,4 @@ FAQ-система для помощи пользователям
 - Git/GitHub
 - Node.js + npm
 - Figma
-
-* Figma
+  _Figma_
