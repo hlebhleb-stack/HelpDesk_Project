@@ -1,0 +1,1 @@
+console.log("HelpDesk FAQ System loaded");
