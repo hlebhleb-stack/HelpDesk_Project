@@ -1,4 +1,4 @@
-# HelpDesk FAQ System
+# HelpDesk FAQ
 
 Лабораторная работа №2. Вариант 6.
 Выполнил: Глеб Артем
@@ -13,3 +13,5 @@ FAQ-система для помощи пользователям
 - Git/GitHub
 - Node.js + npm
 - Figma
+
+* Figma
